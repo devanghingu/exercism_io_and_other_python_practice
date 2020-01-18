@@ -1,0 +1,6 @@
+{
+  "perfect-numbers/perfect_numbers_test.py::AbundantNumbersTest": true,
+  "perfect-numbers/perfect_numbers_test.py::DeficientNumbersTest": true,
+  "perfect-numbers/perfect_numbers_test.py::InvalidInputsTest": true,
+  "perfect-numbers/perfect_numbers_test.py::PerfectNumbersTest": true
+}

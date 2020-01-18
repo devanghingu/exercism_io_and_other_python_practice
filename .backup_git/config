@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/devanghingu/exercism_io_and_other_python_practice.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

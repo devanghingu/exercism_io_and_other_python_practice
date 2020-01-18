@@ -12,7 +12,6 @@ class School:
     def grade(self, gno):
         return sorted([i for i in self.dict if (self.dict[i]==gno)])
             
-                
 # school = School()
 # school.add_student(name="Peter", grade=2)
 # school.add_student(name="Anna", grade=1)
