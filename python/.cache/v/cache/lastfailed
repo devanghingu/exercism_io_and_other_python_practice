@@ -1,4 +1,9 @@
 {
+  "gigasecond/gigasecond_test.py::GigasecondTest::test_date_only_specification_of_time": true,
+  "gigasecond/gigasecond_test.py::GigasecondTest::test_full_time_specified": true,
+  "gigasecond/gigasecond_test.py::GigasecondTest::test_full_time_with_day_roll_over": true,
+  "gigasecond/gigasecond_test.py::GigasecondTest::test_second_test_for_date_only_specification_of_time": true,
+  "gigasecond/gigasecond_test.py::GigasecondTest::test_third_test_for_date_only_specification_of_time": true,
   "perfect-numbers/perfect_numbers_test.py::AbundantNumbersTest": true,
   "perfect-numbers/perfect_numbers_test.py::DeficientNumbersTest": true,
   "perfect-numbers/perfect_numbers_test.py::InvalidInputsTest": true,

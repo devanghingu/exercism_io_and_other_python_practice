@@ -1,0 +1,24 @@
+------category------
+
+RGP 
+    RGP
+        Energy Charges(UNIT)
+        FIX CHARGE  SINGLE PHASE 
+                    THREE PHASE
+    BPL
+        Energy Charges(UNIT)
+        FIX CHARGE -> FLAT 
+    
+GLP
+    Energy Charges(UNIT)
+    FIX CHARGE  SINGLE PHASE 
+                THREE PHASE
+
+NON-RGP
+    Energy Charges(UNIT)
+    FIX CHARGE  <=5KW 
+                > 5KW AND <= 15KW
+    
+LTP (AG) 
+    Energy Charges (UNIT)
+    PER BHP(RS10)
