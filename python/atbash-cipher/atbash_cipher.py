@@ -11,7 +11,7 @@ def translate(text):
 
 def encode(plain_text):
     print(atbash_table)
-    
+        
     cipher_text = translate(plain_text)
     return ' '.join(cipher_text[i:i + 5] for i in range(0, len(cipher_text), 5))
 
